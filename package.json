@@ -1,0 +1,28 @@
+{
+  "name": "@anywhichway/all",
+  "version": "0.0.1",
+  "description": "Collects all values for an iterable as an array",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anywhichway/all.git"
+  },
+  "keywords": [
+    "generator",
+    "iterable"
+  ],
+  "author": "Simon Y. Blackwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anywhichway/all/issues"
+  },
+  "homepage": "https://github.com/anywhichway/all#readme",
+  "dependencies": {
+    "@anywhichway/map": "^0.0.1",
+    "arg-waiter": "^0.0.1"
+  }
+}
