@@ -17,5 +17,7 @@ See (https://www.npmjs.com/package/@anywhichway/map)[@anywhichway/map] for usage
 
 # Release History (Reverse Chronological Order)
 
+2023-01-04 v1.0.0 Updated to use @anywhichway/map v1.0.0 which has 95% test coverage.
+
 2023-01-01 v0.0.1 Initial public release
   
