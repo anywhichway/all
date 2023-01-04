@@ -1,6 +1,6 @@
 {
   "name": "@anywhichway/all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collects all values for an iterable as an array",
   "type": "module",
   "main": "index.js",
